@@ -1,14 +1,14 @@
 ##Nepal
-## population
+## population-30millon
 
 
-## capital
+## capital-Kathmandu
 
  
-## official language
+## official language-Nepali
 
 
-## interesting trivia
+## interesting trivia-Mount Everest
 
 
 
